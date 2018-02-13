@@ -60,11 +60,11 @@
     "@types/marked": "0.3.0",
     "d3": "3.5.17",
     "marked": "0.3.9",
-    "phovea_core": "github:phovea/phovea_core#master",
-    "phovea_d3": "github:phovea/phovea_d3#develop",
-    "phovea_security_flask": "github:phovea/phovea_security_flask#master",
-    "phovea_ui": "github:phovea/phovea_ui#master",
-    "phovea_vis": "github:phovea/phovea_vis#master"
+    "phovea_core": "github:VisualStorytelling/phovea_core#master",
+    "phovea_d3": "github:VisualStorytelling/phovea_d3#develop",
+    "phovea_security_flask": "github:VisualStorytelling/phovea_security_flask#master",
+    "phovea_ui": "github:VisualStorytelling/phovea_ui#master",
+    "phovea_vis": "github:VisualStorytelling/phovea_vis#master"
   },
   "name": "phovea_clue",
   "description": "The foundation for Vistories: CLUE playground for provenance storage and visualization",
